@@ -1,6 +1,6 @@
 ## Problem Statement: The third occurrence
 
-Given a string that may or may not contain the letter of interest, please return the index location of the third occurrence of the letter 'f.' If the string contains fewer than three occurrences of the letter 'f,' please return -2. If the string does not contain the letter 'f' at all, please return -1.
+Given a string that may or may not contain the letter of interest, please return the index location of the third occurrence of the letter 'f.' If the string contains fewer than three occurrences of the letter 'f,' please return -1. If the string does not contain the letter 'f' at all, please return -2.
 
 *Your task is to implement the following function:*
 ```python
