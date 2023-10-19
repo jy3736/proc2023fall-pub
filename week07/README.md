@@ -18,7 +18,7 @@ Checking 'prob04' => passed!
 Checking 'prob05' => passed!
 Grade: 100
 
-Database[rpi2023fall] - week07
+Database[proc2023fall] - week07
 
 Do you need to submit a scoring report? (yes/no): yes
 Scoring report submitted!
@@ -39,27 +39,16 @@ Scoring report submitted!
 *您可以使用 `./mystatus` 命令來查看您已提交的所有`成績報告`：*
 ```shell
 [week07]$ ./mystatus
-Class ID       : rpi2023fall
 Github User    : jyang
-----------------------------------------
-Assessment     : sol-week05
-Passed         : prob01 prob02 prob03 prob04 
-Grade          : 100
-Summit         : 2023-10-20 00:25:24
-----------------------------------------
-Assessment     : sol-week05-ex
-Passed         : ex01 ex04 
-Grade          : 50
-Summit         : 2023-10-20 00:25:51
 ----------------------------------------
 Assessment     : week06
 Passed         : prob01 prob02 prob03 prob04 prob05 
 Grade          : 100
-Summit         : 2023-10-20 00:24:58
+Summit         : 2023-10-16 06:54:33
 ----------------------------------------
 Assessment     : week07
 Passed         : prob01 prob02 prob03 prob04 prob05 
 Grade          : 100
-Summit         : 2023-10-20 00:23:32
+Summit         : 2023-10-20 00:06:02
 ----------------------------------------
 ```
